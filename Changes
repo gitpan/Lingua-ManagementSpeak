@@ -1,0 +1,5 @@
+Revision history for Perl extension Lingua::ManagementSpeak.
+
+0.01  Thu Apr  7 10:28:40 2005
+	- original version; created by h2xs 1.23 with options
+		-XA -n Lingua::ManagementSpeak

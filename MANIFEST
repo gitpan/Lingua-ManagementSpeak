@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Lingua-ManagementSpeak.t
+lib/Lingua/ManagementSpeak.pm
+examples/cgi-document.pl
+examples/text-100.pl
