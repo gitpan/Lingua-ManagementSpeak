@@ -1,29 +1,47 @@
-Lingua-ManagementSpeak version 0.01
-===================================
+Lingua::ManagementSpeak - Tool to generate managerial-sounding text and full documents
 
-Lingua::ManagementSpeak is a tool that generates content that appears real,
-sounds official and important, but ultimately means absolutely nothing. It
-can output sentences, paragraphs, and whole documents with embedded
-structure. The goal is to easily provide filler or lorem ipsen content that
-has the potential to pass as real. This module does for geeks what lorem
-ipsen does for designers.
+This module generates grammatically correct, managerial-sounding text and
+full-length documents that mean absolutely nothing. It can output sentences,
+paragraphs, and whole documents with embedded structure. The goal is to easily
+provide filler or lorem ipsen content that has the potential to pass as real.
+This module does for geeks what lorem ipsen does for designers.
+
 
 INSTALLATION
 
 To install this module type the following:
 
-   perl Makefile.PL
-   make
-   make test
-   make install
+    perl Makefile.PL
+    make
+    make test
+    make install
 
-DEPENDENCIES
 
-This module has no dependencies other than Perl itself.
+SUPPORT AND DOCUMENTATION
 
-COPYRIGHT AND LICENCE
+After installing, you can find documentation for this module with the
+perldoc command.
 
-Copyright (C) 2005 by Gryphon Shafer
+    perldoc Lingua::ManagementSpeak
+
+You can also look for information at:
+
+    RT, CPAN's request tracker
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=Lingua-ManagementSpeak
+
+    AnnoCPAN, Annotated CPAN documentation
+        http://annocpan.org/dist/Lingua-ManagementSpeak
+
+    CPAN Ratings
+        http://cpanratings.perl.org/d/Lingua-ManagementSpeak
+
+    Search CPAN
+        http://search.cpan.org/dist/Lingua-ManagementSpeak
+
+
+AUTHOR AND LICENSE
+
+Gryphon Shafer, gryphon@cpan.org
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.4 or,

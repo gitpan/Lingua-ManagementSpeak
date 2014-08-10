@@ -1,8 +1,11 @@
 Changes
+lib/Lingua/ManagementSpeak.pm
 Makefile.PL
 MANIFEST
 README
-t/Lingua-ManagementSpeak.t
-lib/Lingua/ManagementSpeak.pm
-examples/cgi-document.pl
-examples/text-100.pl
+t/00-load.t
+t/boilerplate.t
+t/library.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
