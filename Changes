@@ -5,3 +5,6 @@ Revision history for Perl extension Lingua::ManagementSpeak.
 
 0.02    Sun Aug 10 00:54:50 PDT 2014
         Updated code style
+
+0.03    Wed Sep 25 10:00:58 PDT 2014
+        Some OCD cleanup; addition of Travis and Coveralls.

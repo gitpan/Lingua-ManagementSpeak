@@ -1,7 +1,8 @@
 #!/usr/bin/env perl
 use strict;
 use warnings;
-use Test::More;
+
+use Test::Most;
 
 exit main(@ARGV);
 

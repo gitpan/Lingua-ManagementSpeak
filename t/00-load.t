@@ -1,8 +1,6 @@
-#!/usr/bin/env perl -T
-use Test::More tests => 1;
+#!/usr/bin/env perl
+use Test::Most;
 
-BEGIN {
-    use_ok( 'Lingua::ManagementSpeak' ) || print "Bail out!\n";
-}
-
-diag( "Testing DBIx::Query $DBIx::Query::VERSION, Perl $], $^X" );
+BEGIN { use_ok('Lingua::ManagementSpeak') }
+diag( "Testing Lingua::ManagementSpeak $Lingua::ManagementSpeak::VERSION, Perl $], $^X" );
+done_testing();

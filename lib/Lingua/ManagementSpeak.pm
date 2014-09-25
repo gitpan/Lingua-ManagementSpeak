@@ -2,7 +2,7 @@ package Lingua::ManagementSpeak;
 use strict;
 use warnings;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 sub new {
     my $self = shift;
@@ -358,7 +358,6 @@ sub to_html {
 }
 
 1;
-__END__
 
 =pod
 
@@ -751,7 +750,6 @@ Gryphon Shafer E<lt>gryphon@cpan.orgE<gt>.
 =head1 LICENSE
 
 This library is free software; you can redistribute it and/or modify
-it under the same terms as Perl itself, either Perl version 5.8.4 or,
-at your option, any later version of Perl 5 you may have available.
+it under the same terms as Perl itself.
 
 =cut
